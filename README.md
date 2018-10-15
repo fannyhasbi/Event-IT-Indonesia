@@ -12,6 +12,6 @@ Ada beberapa masalah dalam pencatatan event IT di Indonesia:
 
 Repository ini diharapkan bisa menyelesaikan semua masalah tersebut dengan sistem open-source dan community-based. Sehingga siapapun bisa mencatat event dan orang lain dapat terbantu.
 
-###Daftar Event
+## Daftar Event
 
 * [Arkademy ArkChallenge -- Oktober 2018 - November 2018](https://www.arkademy.com/arkchallenge)
