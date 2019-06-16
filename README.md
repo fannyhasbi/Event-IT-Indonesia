@@ -14,4 +14,4 @@ Repository ini diharapkan bisa menyelesaikan semua masalah tersebut dengan siste
 
 ## Daftar Event
 
-* [Arkademy ArkChallenge -- Oktober 2018 - November 2018](https://www.arkademy.com/arkchallenge)
+* ~~[Arkademy ArkChallenge -- Oktober 2018 - November 2018](https://www.arkademy.com/arkchallenge)~~
